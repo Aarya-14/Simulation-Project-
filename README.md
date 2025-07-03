@@ -1,1 +1,2 @@
-# Simulation-Project-
+# Simulated Lattice Energy Minimization Using Lennard-Jones Potential
+Built a Python-based simulation to model interatomic interactions in an FCC crystal using the Lennard-Jones potential and periodic boundary conditions. Implemented custom lattice generation, energy computation with cutoff, and equilibrium parameter identification. Applied numerical optimization, 3D visualization (Matplotlib), and vectorized calculations using NumPy
